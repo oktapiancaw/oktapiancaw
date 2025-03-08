@@ -25,4 +25,4 @@ Enjoy learning and exploring about the latest technologies. Passionate about som
 
 ### Feel free to contact me 🤗
 <a href="https://linkedin.com/in/oktapiancaw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-oktapiancaw-informational"></a>
-<a href="https://www.oxtcaw.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-oxtcow.com-black"></a>
+<a href="https://www.oxtcaw.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-oxtcaw.com-black"></a>
